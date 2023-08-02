@@ -8,6 +8,8 @@ To use this system, simply download the `index.html`, `index.css`, and `script.j
 
 Alternatively, you can copy and paste the HTML, CSS, and JavaScript code into your own web page and customize the layout and styling as needed.
 
+[click here](https://wireframe.cc/EFUAFy) to access the wireframe.
+
 ## Contributing
 
 Contributions to this project are welcome. If you find a bug or have an idea for an improvement, please open an issue or submit a pull request.
