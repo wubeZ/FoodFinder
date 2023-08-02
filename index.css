@@ -1,0 +1,177 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: #2f226b ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#header {
+    display: flex;
+    flex-direction: row;
+    background-color: #22516b;
+    color: white;
+    height: 8vh;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 20px;
+    height: 60vh;
+}
+
+#opening_phrase , img {
+    color: white;
+}
+
+#opening_phrase, h1 {
+    font-size: 55px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+#first-container {
+    width: 50%;
+    padding: 30px;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+#second-container {
+    background-color: #54226b;
+    border: solid 1px;
+    border-color: white;
+    border-radius: 35px;
+    margin-top: 40px;
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+#checkout {
+    padding: 10px;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+    border: solid 2px;
+    border-color: rgb(50, 47, 47);
+    background-color: #0a62fb;
+    text-shadow: #000000;
+    color: rgb(255, 255, 255) ;
+    font-size: larger;
+    font-weight: 500;
+}
+
+#total {
+    border: solid 1px;
+    border-radius: 10px;
+    color: rgb(23, 1, 1);
+    background-color: #ffaaaa;
+    padding: 8px;
+    font-size: larger;
+    font-weight: 500;
+
+
+}
+
+#reset {
+    padding: 10px;
+    width: 50%;
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: black;
+    background-color: red;
+    color: #000000;
+    font-size: large;
+    font-weight: 400;
+}
+
+#title {
+    font-size: 30px;
+    font-weight: 700;
+    color: aliceblue;
+
+}
+
+#food-picture {
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+
+}
+
+#name {
+    padding-left: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 100px;
+    padding-right: 60%;
+    text-shadow:#000000;
+}
+
+#login-btn {
+    font-size: large;
+    margin-right: 50px;
+    padding: 0 40px;
+    margin-top: 12px;
+    margin-bottom: 7px;
+    font-weight: 700;
+    color: black;
+    background-color: #d5dee8;
+    border-radius: 10px;
+    
+}
+
+#Signup-btn {
+    font-size: large;
+    font-weight: 400;
+    margin-right: 70px;
+    padding: 0 40px;
+    margin-top: 12px;
+    margin-bottom: 7px;
+    font-weight: 700;
+    color: black;
+    background-color: #d5dee8;
+    border-radius: 10px;
+
+}
+
+#menu {
+    font-size: large;
+    font-weight: 500;
+    text-align: center;
+    padding: 7px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #27292c;
+    background-color: rgb(168, 192, 238);
+    border-radius: 10px;
+}
+
+li {
+    color: aqua;
+    font-size: larger;
+    list-style: none;
+    font-weight: 500;
+    text-align: left;
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+#checked {
+    font-size: large;
+    font-weight: 600;
+    color: aqua;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#checkedItems {
+    background-color:  #431b57;
+}
